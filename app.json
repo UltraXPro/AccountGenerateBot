@@ -29,7 +29,7 @@
         },
         "ACCOUNTS": {
             "description": "Raw Link to your accounts, read the ReadMe for more info.",
-            "value": ""
+            "value": "https://del.dog/demoaccount.txt"
         },
         "CHANNEL": {
             "description": "Channel link/@username for force join, leave for disabling force join. The bot must be admin in that channel.",
@@ -37,11 +37,11 @@
         },
         "START": {
             "description": "Start message. Use {mention} to mention the other user.",
-            "value": ""
+            "value": '''**Hey {mention} ; I am a Demo Account Generator Bot this bot is only for trial purpose not for professional purpose so please dont take this bot at serious...**'''
         },
         "ACC_NAME": {
             "description": "Name of the account the bot generates",
-            "value": "Random"
+            "value": "Demo"
         },
         "REDIS_URI": {
             "description": "Redis Database URL, get it from redislabs.com. Read ReadMe for more info.",
