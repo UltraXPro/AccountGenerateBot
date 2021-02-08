@@ -37,7 +37,7 @@
         },
         "START": {
             "description": "Start message. Use {mention} to mention the other user.",
-            "value": '''**Hey {mention} ; I am a Demo Account Generator Bot this bot is only for trial purpose not for professional purpose so please dont take this bot at serious...**'''
+            "value": "**Hey {mention} ; I am a Demo Account Generator Bot this bot is only for trial purpose not for professional purpose so please dont take this bot at serious...**"
         },
         "ACC_NAME": {
             "description": "Name of the account the bot generates",
